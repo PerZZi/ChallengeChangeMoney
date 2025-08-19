@@ -1,8 +1,5 @@
 # Challenge-Change-Money 💱
 
-![Imagen de Portada](https://github.com/Xn0ch3/Challenge-Change-Money/raw/main/ExchangeApp.png)
-
-
 ## Insignias
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
@@ -37,23 +34,11 @@ La aplicación está funcionando correctamente para las conversiones básicas, p
 
 ---
 
-## Demostración de Funciones y Aplicaciones
-
-![Demostración GIF](https://github.com/Xn0ch3/Challenge-Change-Money/raw/main/DemoExchangeApp.gif)
-
-
-- **Selección de monedas**: El usuario puede elegir entre varias combinaciones de monedas disponibles.
-- **Conversión de montos**: La aplicación calcula el monto convertido utilizando tasas de cambio actuales.
-- **Historial de conversiones**: Se guarda un registro de todas las conversiones realizadas en formato JSON.
-- **Interfaz de consola**: Menú interactivo que guía al usuario a través del proceso de conversión.
-
----
-
 ## Acceso al Proyecto
 
 1. Clonar el repositorio:
       ```bash
-   git clone https://github.com/Xn0ch3/Challenge-Change-Money.git
+   git clone https://github.com/PerZZi/ChallengeChangeMoney.git
       
 2. Abrir el proyecto en tu IDE favorito (IntelliJ IDEA, Eclipse, VSCode, etc.).
    
@@ -71,15 +56,4 @@ API externa ExchangeRate-API para tasas de cambio
 
 Sistema de archivos local para historial
 
-## Personas Contribuyentes
-👨‍💻 [Xavier Nochelli](https://github.com/Xn0ch3)
-
-## Personas Desarrolladoras del Proyecto
-👨‍💻 [Xavier Nochelli](https://github.com/Xn0ch3)
-
-## Licencia
-Este proyecto está bajo la licencia MIT. Para más detalles, consultar el archivo LICENSE incluido en el repositorio.
-
-📄 Texto completo de la licencia MIT:
-https://opensource.org/licenses/MIT
 
