@@ -42,9 +42,7 @@ La aplicación está funcionando correctamente para las conversiones básicas, p
       
 2. Abrir el proyecto en tu IDE favorito (IntelliJ IDEA, Eclipse, VSCode, etc.).
    
-3. Ejecutar la clase principal Main.java que se encuentra en:
-   
-   src/main/java/com/xnochell/exchange/Main.java
+3. Ejecutar la clase principal Main.java
 
 ## Tecnologías Utilizadas
 
